@@ -2,8 +2,12 @@
 
 # Education
 - skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Cloudant, Meteor, Parse, Lyft Developer Platform.
 
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+# Engineering
+- skill: Engineering
+  description: Built web applications and websites using Meteor, React, Angular, html5, css.
