@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Yuriy Dybskiy"
-resume_title:                   "Curious JavaScript Engineer, @html5cat"
+resume_title:                   "Curious JavaScript Engineer"
 resume_contact_email:           "yuriy@dybskiy.com"
 # resume_contact_telephone:       "1-(877)-448-4820"
 resume_contact_address:         "San Francisco, California"
